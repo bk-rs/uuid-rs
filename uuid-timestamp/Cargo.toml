@@ -1,0 +1,15 @@
+[package]
+name = "uuid-timestamp"
+version = "0.0.0"
+authors = ["vkill <vkill.net@gmail.com>"]
+edition = "2021"
+description = "UUID timestamp"
+license = "Apache-2.0 OR MIT"
+repository = "https://github.com/bk-rs/uuid-rs"
+homepage = "https://github.com/bk-rs/uuid-rs"
+documentation = "https://docs.rs/uuid-timestamp"
+keywords = []
+categories = []
+readme = "README.md"
+
+[dependencies]
